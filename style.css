@@ -1,0 +1,27 @@
+body{
+    background-image: url(circle4.jpg);
+
+}
+.intro{
+    text-decoration: underline dotted;
+    text-align: center;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.name{
+    font-family: sans-serif;
+}
+.paragh{
+    font-family: Verdana, sans-serif;
+}
+.skills{
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+.end{
+    background-color: black;
+    color: white;
+    font-size: 1em;
+    text-align: center;
+}
